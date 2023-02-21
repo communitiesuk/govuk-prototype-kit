@@ -14,17 +14,17 @@ This is a suggested solution for colleagues who do not have elevated priveledges
 
 You can create a new prototype using this repository with GitHub Codespaces 
 
-1. Create a new repository using this repository as a template
+1. [Create a new repository using this repository as a template](https://github.com/communitiesuk/govuk-prototype-kit/generate)
 
-2. [Create a new codespace](https://github.com/codespaces/new) and choose set the following configuration.
+2. [Create a new codespace](https://github.com/codespaces/new) and change the option to the following configuration:
 
 3. **Repository**: 
 
-    Choose your repository, you can search for it and then select it from the dropdown.
+    Choose your repository (the one you just created), you can search for it and then select it from the dropdown.
 
 4. **Branch**: 
 
-    Choose the default branch
+    Choose the `default branch`
 
 5. **Dev container configuration**:
     
